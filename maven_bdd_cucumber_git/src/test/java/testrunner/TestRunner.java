@@ -8,7 +8,7 @@ import io.cucumber.testng.CucumberOptions;
 		glue = {"stepdefinitions"},
 		dryRun = false,
 		plugin = {"pretty", "html:target/report.html"},
-		tags = ""
+		tags = "@addtocart"
 		)
 
 public class TestRunner extends AbstractTestNGCucumberTests{

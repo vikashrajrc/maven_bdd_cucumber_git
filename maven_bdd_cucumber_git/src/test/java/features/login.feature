@@ -8,4 +8,4 @@ Then User should be navigated to home page
 
 Examples: 
 |username|password|
-|standard_user|secret_sauce|
+|standard_user|secret_sauce| 

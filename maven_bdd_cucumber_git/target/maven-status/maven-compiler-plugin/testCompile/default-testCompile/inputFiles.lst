@@ -1,3 +1,5 @@
-/Users/vikashkumar/eclipse-workspace/maven_bdd_cucumber_git/src/test/java/pageobjects/LoginPage.java
-/Users/vikashkumar/eclipse-workspace/maven_bdd_cucumber_git/src/test/java/stepdefinitions/Login.java
-/Users/vikashkumar/eclipse-workspace/maven_bdd_cucumber_git/src/test/java/testrunner/TestRunner.java
+/Users/vikashkumar/git/maven_bdd_cucumber_git/maven_bdd_cucumber_git/src/test/java/pageobjects/AddToCartPage.java
+/Users/vikashkumar/git/maven_bdd_cucumber_git/maven_bdd_cucumber_git/src/test/java/pageobjects/LoginPage.java
+/Users/vikashkumar/git/maven_bdd_cucumber_git/maven_bdd_cucumber_git/src/test/java/stepdefinitions/AddToCart.java
+/Users/vikashkumar/git/maven_bdd_cucumber_git/maven_bdd_cucumber_git/src/test/java/stepdefinitions/Login.java
+/Users/vikashkumar/git/maven_bdd_cucumber_git/maven_bdd_cucumber_git/src/test/java/testrunner/TestRunner.java
